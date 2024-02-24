@@ -21,8 +21,8 @@ I am a QA with experience in manual and automated testing. I am proficient in to
 ### Mis estadísticas
 
 <p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=palacioea&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palacioea&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=palacioea&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palacioea&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
 </p>
 
 ### ✉️  &nbsp;Contacto 
