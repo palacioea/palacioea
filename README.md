@@ -18,16 +18,15 @@ I am a QA with experience in manual and automated testing. I am proficient in to
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
-### Mis estadísticas
-
+# My statistics:
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=palacioea&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palacioea&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
 </p>
 
-### ✉️  &nbsp;Contacto 
+# ✉️  &nbsp;Contact: 
 
-Me puedes encontrar en:
+You can find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palacioea/) 
 ---
