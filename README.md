@@ -1,10 +1,6 @@
 # 💫 About Me:
 I am a QA with experience in manual and automated testing. I am proficient in tools such as Cypress, Playwright, Docker, Javascript and Postman to ensure software quality. I enjoy working in a team and collaborating with developers to ensure that applications meet the required quality standards. I am interested in continuing to acquire knowledge and skills in areas related to software quality.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palacioea/) 
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -21,6 +17,13 @@ I am a QA with experience in manual and automated testing. I am proficient in to
 ![github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+### Mis estadísticas
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palacioea&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palacioea&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
+</p>
 
 ### ✉️  &nbsp;Contacto 
 
