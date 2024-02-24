@@ -21,6 +21,12 @@ I am a QA with experience in manual and automated testing. I am proficient in to
 ![github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+### ✉️  &nbsp;Contacto 
+
+Me puedes encontrar en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palacioea/) 
 ---
 [![](https://visitcount.itsvg.in/api?id=mhooes&icon=0&color=12)](https://visitcount.itsvg.in)
 
