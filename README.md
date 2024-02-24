@@ -27,7 +27,7 @@ I am a QA with experience in manual and automated testing. I am proficient in to
 # ✉️  &nbsp;Contact: 
 <p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palacioea/)
-<p>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=mhooes&icon=0&color=12)](https://visitcount.itsvg.in)
 
