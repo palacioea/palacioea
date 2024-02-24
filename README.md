@@ -32,6 +32,11 @@ I am a QA with experience in manual and automated testing. I am proficient in to
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palacioea)
+<p align="center">
+  <a href="https://linkedin.com/in/palacioea">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Emiliano&icon=5&color=7)](https://visitcount.itsvg.in)
